@@ -10,7 +10,7 @@ Dash-based interactive and dynamic Ramachandran plot viewer with the ability to 
 * Denoted structures extracted from PDB file, de novo models could act tricky due to the lack of the proper annotation; this could be fixed through the DSSP implementation.
 </div>
 
-![Ramachandran](./screenshot.png){ align=right style="height:270px;width:; margin-top: 0px;" }
+![Ramachandran](./screenshot.png)
 
  
 Installation guide:
