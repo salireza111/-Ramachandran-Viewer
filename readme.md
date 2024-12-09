@@ -16,6 +16,9 @@ Dash-based interactive and dynamic Ramachandran plot viewer with the ability to 
 Installation guide:
 
 ```bash
+# Git clone
+git clone https://github.com/salireza111/-Ramachandran-Viewer.git
+
 # Create the virtual environment
 python -m venv rama-env
 
