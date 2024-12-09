@@ -26,8 +26,8 @@ rama-env\Scripts\activate     # On Windows
 # Install dependencies
 pip install -r requirements.txt
 
-# Deactivate when done
-deactivate
+# Run the code
+python main.py
 ```
 
 and it will be accessible via http://127.0.0.1:8050/ on your browser.
