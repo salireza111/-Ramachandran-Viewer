@@ -34,3 +34,20 @@ python main.py
 ```
 
 and it will be accessible via http://127.0.0.1:8050/ on your browser.
+
+
+
+```
+A series of PDB-related databanks for everyday needs
+Wouter G. Touw, Coos Baakman, Jon Black, Tim A. H. te Beek,
+ E. Krieger, Robbie P. Joosten and Gert Vriend.
+Nucl. Acids Res. (2015) 43, D364-D368
+
+Dictionary of protein secondary structure: pattern recognition of
+ hydrogen-bonded and geometrical features.
+Kabsch W and Sander C, Biopolymers (1983) 22, 2577-2637.
+
+Database of homology-derived protein structures and the structural
+ meaning of sequence alignment.
+Sander C and Schneider R, Proteins (1991) 9, 56-68.
+```
