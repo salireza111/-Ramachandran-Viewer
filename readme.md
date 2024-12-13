@@ -37,6 +37,9 @@ and it will be accessible via http://127.0.0.1:8050/ on your browser.
 
 
 
+Try it (30 days): http://87.248.145.16:8050/
+(Slow server 🙃)
+
 ```
 A series of PDB-related databanks for everyday needs
 Wouter G. Touw, Coos Baakman, Jon Black, Tim A. H. te Beek,
